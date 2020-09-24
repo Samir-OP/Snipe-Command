@@ -1,2 +1,2 @@
-# snipe_DankMemer
+# Snipe Command
 This is snipe command similar to Dank Memer bot
